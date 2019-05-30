@@ -11,32 +11,33 @@ package trabalho2005.exercicio1;
  */
 public class Eletrodomestico {
     
-    private String nome;
-    private float preco;
-    private String marca;
+    private String nome2;
+    private float preco3;
+    private String marca4;
 
-    public String getNome() {
-        return nome;
+    public String getNome2() {
+        return nome2;
     }
 
-    public void setNome(String nome) {
-        this.nome = nome;
+    public void setNome2(String nome2) {
+        this.nome2 = nome2;
     }
 
-    public float getPreco() {
-        return preco;
+    public float getPreco3() {
+        return preco3;
     }
 
-    public void setPreco(float preco) {
-        this.preco = preco;
+    public void setPreco3(float preco3) {
+        this.preco3 = preco3;
     }
 
-    public String getMarca() {
-        return marca;
+    public String getMarca4() {
+        return marca4;
     }
 
-    public void setMarca(String marca) {
-        this.marca = marca;
+    public void setMarca4(String marca4) {
+        this.marca4 = marca4;
     }
+
     
 }
